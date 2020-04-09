@@ -1,0 +1,26 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  background:
+  radial-gradient(#6551971c 1px, transparent 3px),
+  radial-gradient(#6551971c 2px, transparent 3px),
+  #fff;
+background-position: 0 0, 20px 20px;
+background-size: 40px 40px;
+}
+
+.fa {
+  font-size: 2em;
+  color: #9c47fc;
+  display: block;
+  background: -webkit-linear-gradient(#9c47fc, #356ad2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2) !important;
+}
